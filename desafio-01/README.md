@@ -50,7 +50,7 @@ Você pode então realizar alguns testes em seu script. Execute seu script usand
  ######
 #######
 ```
-### Teste 1: 
+### Teste 3: 
 - Entrada: n=20
 - Saída Esperada:
 ```
