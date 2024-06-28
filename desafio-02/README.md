@@ -1,7 +1,7 @@
 # Dia 02: Contador de Vales
 
 ## Desafio
-Um ávido caminhante mantém registros meticulosos de suas caminhadas. Durante a última caminhada que durou exatamente steps passos, foi registrado se cada passo era uma subida (U) ou uma descida (D). As caminhadas sempre começam e terminam ao nível do mar, e cada passo para cima ou para baixo representa uma mudança de uma unidade de altitude. Definimos os seguintes termos:
+Um ávido caminhante mantém registros meticulosos de suas caminhadas. Durante a última caminhada que durou exatamente N passos, foi registrado se cada passo era uma subida (U) ou uma descida (D). As caminhadas sempre começam e terminam ao nível do mar, e cada passo para cima ou para baixo representa uma mudança de uma unidade de altitude. Definimos os seguintes termos:
 
 Uma montanha é uma sequência de passos consecutivos acima do nível do mar, começando com um passo para cima do nível do mar e terminando com um passo para baixo até o nível do mar.
 Um vale é uma sequência de passos consecutivos abaixo do nível do mar, começando com um passo para baixo do nível do mar e terminando com um passo para cima até o nível do mar.
@@ -9,7 +9,7 @@ Dado a sequência de passos de subida e descida durante uma caminhada, descubra 
 
 ## Detalhamento do Desafio:
 1. Crie uma função chamada countingValleys que recebe uma string como parâmetro para representar o caminho percorrido.
-2. Retorne o o número de vales atravessados.
+2. Retorne o número de vales atravessados.
 
 ## Exemplo
 Dado a string UDDDUDUU, o número de vales percorridos foi 1.
