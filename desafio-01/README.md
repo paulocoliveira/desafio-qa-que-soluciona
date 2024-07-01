@@ -1,4 +1,4 @@
-# Dia 01: Escadaria
+# Desafio 01: Escadaria
 
 ## Desafio
 Este é um desafio de programação cujo objetivo é criar uma escadaria de tamanho n utilizando símbolos # e espaços. A base e a altura da escadaria são iguais ao valor de n, e a última linha não é precedida por espaços.

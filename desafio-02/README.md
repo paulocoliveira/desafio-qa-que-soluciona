@@ -1,4 +1,4 @@
-# Dia 02: Contador de Vales
+# Desafio 02: Contador de Vales
 
 ## Desafio
 Um ávido caminhante mantém registros meticulosos de suas caminhadas. Durante a última caminhada que durou exatamente N passos, foi registrado se cada passo era uma subida (U) ou uma descida (D). As caminhadas sempre começam e terminam ao nível do mar, e cada passo para cima ou para baixo representa uma mudança de uma unidade de altitude. Definimos os seguintes termos:
