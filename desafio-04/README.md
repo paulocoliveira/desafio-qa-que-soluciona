@@ -1,7 +1,7 @@
 # Desario 04: Notificações de Atividades Suspeitas
 
 ## Desafio
-O Banco Nacional de HackerLand tem uma política simples para alertar clientes sobre possíveis atividades fraudulentas nas contas. Se o valor gasto por um cliente em um dia específico for maior ou igual à mediana dos gastos do cliente para um número de dias anteriores, eles enviam uma notificação ao cliente sobre a possível fraude. O banco não envia nenhuma notificação até que tenham pelo menos esse número de dias de dados de transações anteriores.
+O Banco Nacional de HackerLand tem uma política simples para alertar clientes sobre possíveis atividades fraudulentas nas contas. Se o valor gasto por um cliente em um dia específico for maior ou igual ao dobro da mediana dos gastos do cliente para um número de dias anteriores, eles enviam uma notificação ao cliente sobre a possível fraude. O banco não envia nenhuma notificação até que tenham pelo menos esse número de dias de dados de transações anteriores.
 
 Dado o número de dias anteriores e os gastos diários totais de um cliente durante um período de dias, determine quantas vezes o cliente receberá uma notificação durante todos os dias.
 
