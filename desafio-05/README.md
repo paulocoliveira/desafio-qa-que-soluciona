@@ -43,22 +43,6 @@ python nome-do-seu-script.py
 Você pode então realizar alguns testes em seu script. Execute seu script usando os valores abaixo, para ver se ele se comporta como esperado.
 
 ### Teste 1: 
-- Entrada: expenditure = [2, 3, 4, 2, 3, 6, 8, 4, 5], d = 5
-- Saída Esperada: 2
-
-### Teste 2: 
-- Entrada: expenditure = [1, 2, 3, 4, 4], d = 4
-- Saída Esperada: 0
-
-### Teste 3: 
-- Entrada: expenditure = [10, 20, 30, 40, 50, 60, 70, 80, 90], d = 5
-- Saída Esperada: 1
-
-### Teste 4: 
-- Entrada: expenditure = [1, 2, 100, 2, 2, 2, 2, 2], d = 4
-- Saída Esperada: 0
-
-### Teste 1: 
 - Entrada: h = 5, m = 0
 - Saída Esperada: five o' clock
 
