@@ -78,10 +78,6 @@ Você pode então realizar alguns testes em seu script. Execute seu script usand
 - Entrada: h = 5, m = 47
 - Saída Esperada: thirteen minutes to six
 
-### Teste 10: 
-- Entrada: h = 5, m = 47
-- Saída Esperada: thirteen minutes to six
-
 ## Dicas Extras:
 - Considere criar um dicionário para mapear todos os números até 59 para suas respectivas palavras, incluindo termos especiais como "quarter" e "half".
 - Ajuste a hora para a próxima se os minutos forem superiores a 30, e considere o caso especial de transição de "12" para "1".
