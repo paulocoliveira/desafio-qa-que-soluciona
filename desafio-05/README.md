@@ -1,4 +1,4 @@
-# Desario 05: Horas em Palavras
+# Desafio 05: Horas em Palavras
 
 ## Desafio
 Dado um horário em numerais, podemos convertê-lo em palavras, como mostrado nos exemplos abaixo. Este programa visa converter um horário dado no formato de horas e minutos para a sua representação em palavras:

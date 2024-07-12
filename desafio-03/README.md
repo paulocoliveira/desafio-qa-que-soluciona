@@ -1,4 +1,4 @@
-# Desario 03: Dias Belos
+# Desafio 03: Dias Belos
 
 ## Desafio
 Lily gosta de jogar com números. Ela criou um novo jogo onde determina a diferença entre um número e seu inverso. Por exemplo, dado o número 123, seu inverso é 321. A diferença entre eles é 198. O número 120 revertido é 21, e sua diferença é 99.
