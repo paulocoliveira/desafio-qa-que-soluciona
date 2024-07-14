@@ -1,4 +1,4 @@
-# Desario 06: Números Quadrados
+# Desafio 06: Números Quadrados
 
 ## Desafio
 Watson gosta de desafiar a habilidade matemática de Sherlock. Ele fornecerá um valor inicial e final que descrevem um intervalo de inteiros, inclusive nos limites. Sherlock deve determinar o número de inteiros quadrados dentro desse intervalo.
